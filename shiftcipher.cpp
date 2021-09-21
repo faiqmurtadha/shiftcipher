@@ -32,7 +32,7 @@ int main(){
         return main();
         break;
     case 2:
-        cout<<"Masukan Chiperteks : ";
+        cout<<"Masukan Cipherteks : ";
         cin>>cipherteks;
         cout<<"Masukan jumlah pergeseran : ";
         cin>>k;
